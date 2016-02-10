@@ -7,4 +7,5 @@ Features :
 To do : 
 + Add Cordova with config.xml
 + Add fonts in woff (Testing)
-+ Add some javascript to enhance user experience in Cordova
++ Add some javascript to enhance user experience in Cordova (Page.js, mustache.js)
++ Add Google analytics
